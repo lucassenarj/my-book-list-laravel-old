@@ -180,7 +180,7 @@ return [
         /*
          * JWT Auth
          */
-        Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
+        Tymon\JWTAuth\Providers\LaravelServiceProvider::class
 
     ],
 
